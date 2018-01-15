@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/shubgupta/checkpoints/resnet_EUROSAT-5000"
+all_model_checkpoint_paths: "/home/shubgupta/checkpoints/resnet_EUROSAT-5000"
